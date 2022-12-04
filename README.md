@@ -23,4 +23,3 @@ Factors
 2. Waist circumference
 3. Body Mass Index (BMI)
 
-Relationship between these variables correlation with blood glucose level which can indicate risk of diabetes
